@@ -8,7 +8,7 @@ background-color:#FFD1DC;
 
 .topnav a {
    float: left;
-   color: #f2f2f2;
+   color:#ffffff;
    text-align: center;
    padding: 14px 16px;
    text-decoration: none;
@@ -21,6 +21,6 @@ background-color:#FFD1DC;
 }
 
 .topnav a.active {
-   background-color: #04AA6D;
+   background-color: #ffb6c1;
    color: white;
 }
